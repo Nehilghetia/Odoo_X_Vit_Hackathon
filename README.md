@@ -69,6 +69,3 @@ The project is decoupled into two main directories for scalability and independe
 - **APIs**: RestCountries (Currencies), Open Exchange Rates / ExchangeRate-API
 
 ---
-
-## 📄 License
-MIT License. Built with ❤️ by Antigravity.
